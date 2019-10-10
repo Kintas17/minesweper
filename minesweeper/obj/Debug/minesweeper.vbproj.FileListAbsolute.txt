@@ -1,0 +1,12 @@
+C:\Users\P114\source\repos\minesweeper\minesweeper\bin\Debug\minesweeper.exe.config
+C:\Users\P114\source\repos\minesweeper\minesweeper\bin\Debug\minesweeper.exe
+C:\Users\P114\source\repos\minesweeper\minesweeper\bin\Debug\minesweeper.pdb
+C:\Users\P114\source\repos\minesweeper\minesweeper\bin\Debug\minesweeper.xml
+C:\Users\P114\source\repos\minesweeper\minesweeper\obj\Debug\minesweeper.vbprojAssemblyReference.cache
+C:\Users\P114\source\repos\minesweeper\minesweeper\obj\Debug\minesweeper.Form1.resources
+C:\Users\P114\source\repos\minesweeper\minesweeper\obj\Debug\minesweeper.Resources.resources
+C:\Users\P114\source\repos\minesweeper\minesweeper\obj\Debug\minesweeper.vbproj.GenerateResource.cache
+C:\Users\P114\source\repos\minesweeper\minesweeper\obj\Debug\minesweeper.vbproj.CoreCompileInputs.cache
+C:\Users\P114\source\repos\minesweeper\minesweeper\obj\Debug\minesweeper.exe
+C:\Users\P114\source\repos\minesweeper\minesweeper\obj\Debug\minesweeper.xml
+C:\Users\P114\source\repos\minesweeper\minesweeper\obj\Debug\minesweeper.pdb

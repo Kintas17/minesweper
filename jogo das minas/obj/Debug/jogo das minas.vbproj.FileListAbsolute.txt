@@ -1,0 +1,20 @@
+C:\Users\P114\source\repos\jogo das minas\jogo das minas\obj\Debug\jogo das minas.vbprojAssemblyReference.cache
+C:\Users\P114\source\repos\jogo das minas\jogo das minas\obj\Debug\jogo_das_minas.Form1.resources
+C:\Users\P114\source\repos\jogo das minas\jogo das minas\obj\Debug\jogo_das_minas.Resources.resources
+C:\Users\P114\source\repos\jogo das minas\jogo das minas\obj\Debug\jogo das minas.vbproj.GenerateResource.cache
+C:\Users\P114\source\repos\jogo das minas\jogo das minas\obj\Debug\jogo das minas.vbproj.CoreCompileInputs.cache
+C:\Users\P114\source\repos\jogo das minas\jogo das minas\bin\Debug\jogo das minas.exe.config
+C:\Users\P114\source\repos\jogo das minas\jogo das minas\bin\Debug\jogo das minas.exe
+C:\Users\P114\source\repos\jogo das minas\jogo das minas\bin\Debug\jogo das minas.pdb
+C:\Users\P114\source\repos\jogo das minas\jogo das minas\bin\Debug\jogo das minas.xml
+C:\Users\P114\source\repos\jogo das minas\jogo das minas\obj\Debug\jogo das minas.exe
+C:\Users\P114\source\repos\jogo das minas\jogo das minas\obj\Debug\jogo das minas.xml
+C:\Users\P114\source\repos\jogo das minas\jogo das minas\obj\Debug\jogo das minas.pdb
+C:\Users\P114\Source\Repos\minesweeper\jogo das minas\obj\Debug\jogo das minas.vbprojAssemblyReference.cache
+C:\Users\P114\Source\Repos\minesweeper\jogo das minas\obj\Debug\jogo_das_minas.Form1.resources
+C:\Users\P114\Source\Repos\minesweeper\jogo das minas\obj\Debug\jogo_das_minas.Resources.resources
+C:\Users\P114\Source\Repos\minesweeper\jogo das minas\obj\Debug\jogo das minas.vbproj.GenerateResource.cache
+C:\Users\P114\Source\Repos\minesweeper\jogo das minas\obj\Debug\jogo das minas.vbproj.CoreCompileInputs.cache
+C:\Users\P114\Source\Repos\minesweeper\jogo das minas\obj\Debug\jogo das minas.exe
+C:\Users\P114\Source\Repos\minesweeper\jogo das minas\obj\Debug\jogo das minas.xml
+C:\Users\P114\Source\Repos\minesweeper\jogo das minas\obj\Debug\jogo das minas.pdb
